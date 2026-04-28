@@ -22,13 +22,13 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 | Item | Description | Link |
 | --- | --- | --- |
-| 🔥 gpt-image-2| gpt-image-2| https://github.com/retkowsky/Azure-AIGEN-demos/tree/main/mistral-document-ai-2512
+| 🔥 gpt-image-2| gpt-image-2| https://github.com/retkowsky/Azure-AIGEN-demos/tree/main/gpt-image-2
 
 ### New content (19 February 2026)
 
 | Item | Description | Link |
 | --- | --- | --- |
-| 🔥 mistral-document-ai-2512| mistral-document-ai-2512 | https://github.com/retkowsky/Azure-AIGEN-demos/tree/main/gpt-image-2
+| 🔥 mistral-document-ai-2512| mistral-document-ai-2512 | https://github.com/retkowsky/Azure-AIGEN-demos/tree/main/mistral-document-ai-2512
 
 ### New content (16 February 2026)
 
