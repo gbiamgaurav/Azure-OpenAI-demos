@@ -2,7 +2,7 @@
 
 ![GPT-Image-2 banner](https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTAwNTcxLTZ4WmdLeQ?revision=9&image-dimensions=2000x2000&constrain-image=true)
 
-## Model: `gpt-image-2` (overview)
+## Model: `gpt-image-2`
 
 `gpt-image-2` is an image generation model that can create and transform images from natural-language prompts. In these notebooks, it’s used from **Azure AI Foundry / Azure OpenAI** to demonstrate practical workflows such as:
 - **Text-to-image generation** (prompt → image)
